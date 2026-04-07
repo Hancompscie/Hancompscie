@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">I'm a student who is interested in software engineering and technology. I started learning programming out of curiosity, and over time it became something I genuinely enjoy.<br><br>Right now, I'm learning the basics of HTML, CSS, JavaScript, and Python while building small projects to improve my skills and understand how real applications work.<br><br>My goal is to study Computer Science at the University of Indonesia (Fasilkom UI) in 2028 and continue growing as a developer. I enjoy learning new things, solving problems, and gradually improving my abilities in programming.<br><br>I'm also open to connecting with people who share similar interests in technology and software development.</p>
+<p align="left">I am a student with a strong interest in software engineering and technology. My journey into programming began out of curiosity, and it has since grown into a genuine passion.
+
+Currently, I am developing a solid foundation in several programming languages, including Python, JavaScript, Java, and C++, as well as web technologies such as HTML and CSS. I focus on building small projects to strengthen my understanding and gain hands-on experience in how real-world applications are developed.
+
+My long-term goal is to pursue a degree in Computer Science at Universitas Indonesia (Fasilkom UI) in 2028, while continuously growing as a developer. I am passionate about learning new technologies, solving problems, and consistently improving my skills.
+
+I am also open to connecting with like-minded individuals who share an interest in technology and software development.</p>
 
 ###
 
