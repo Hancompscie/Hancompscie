@@ -16,7 +16,7 @@ Currently, I am developing a solid foundation in several programming languages, 
 
 My long term goal is to pursue a degree in Computer Science at Universitas Indonesia (Fasilkom UI) in 2028, while continuously growing as a developer. I am passionate about learning new technologies, solving problems, and consistently improving my skills.
 
-I am also open to connecting with like-minded individuals who share an interest in technology and software development.</p>
+I am also open to connecting with like minded individuals who share an interest in technology and software development.</p>
 
 ###
 
