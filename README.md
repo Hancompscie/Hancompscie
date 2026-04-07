@@ -12,9 +12,9 @@
 
 <p align="left">I am a student with a strong interest in software engineering and technology. My journey into programming began out of curiosity, and it has since grown into a genuine passion.
 
-Currently, I am developing a solid foundation in several programming languages, including Python, JavaScript, Java, and C++, as well as web technologies such as HTML and CSS. I focus on building small projects to strengthen my understanding and gain hands-on experience in how real-world applications are developed.
+Currently, I am developing a solid foundation in several programming languages, including Python, JavaScript, Java, and C++, as well as web technologies such as HTML and CSS. I focus on building projects to strengthen my understanding and gain hands on experience in how real world applications are developed.
 
-My long-term goal is to pursue a degree in Computer Science at Universitas Indonesia (Fasilkom UI) in 2028, while continuously growing as a developer. I am passionate about learning new technologies, solving problems, and consistently improving my skills.
+My long term goal is to pursue a degree in Computer Science at Universitas Indonesia (Fasilkom UI) in 2028, while continuously growing as a developer. I am passionate about learning new technologies, solving problems, and consistently improving my skills.
 
 I am also open to connecting with like-minded individuals who share an interest in technology and software development.</p>
 
