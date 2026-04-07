@@ -1,8 +1,8 @@
-<h1 align="center">Hii, I’m Muhammad Raihansyah Zahari</h1>
+<h1 align="left">Hi, I’m Muhammad Raihansyah Zahari</h1>
 
 ###
 
-<p align="left">A tech enthusiast passionate about  Software Engineering and Web Developer.</p>
+<p align="left">A tech enthusiast passionate about Software Engineering and Web Developer.</p>
 
 ###
 
@@ -10,13 +10,7 @@
 
 ###
 
-<p align="left">I am a student with a strong interest in software engineering and technology. My journey into programming began out of curiosity, and it has since grown into a genuine passion.
-
-Currently, I am developing a solid foundation in several programming languages, including Python, JavaScript, Java, and C++, as well as web technologies such as HTML and CSS. I focus on building projects to strengthen my understanding and gain hands on experience in how real world applications are developed.
-
-My long term goal is to pursue a degree in Computer Science at Universitas Indonesia (Fasilkom UI) in 2028, while continuously growing as a developer. I am passionate about learning new technologies, solving problems, and consistently improving my skills.
-
-I am also open to connecting with like minded individuals who share an interest in technology and software development.</p>
+<p align="left">I am a student with a strong interest in software engineering and technology. My journey into programming began out of curiosity, and it has since grown into a genuine passion.<br><br>Currently, I am developing a solid foundation in several programming languages, including Python, JavaScript, Java, and C++, as well as web technologies such as HTML and CSS. I focus on building projects to strengthen my understanding and gain hands on experience in how real world applications are developed.<br><br>My long term goal is to pursue a degree in Computer Science at Universitas Indonesia (Fasilkom UI) in 2028, while continuously growing as a developer. I am passionate about learning new technologies, solving problems, and consistently improving my skills.<br><br>I am also open to connecting with like minded individuals who share an interest in technology and software development.</p>
 
 ###
 
@@ -24,10 +18,14 @@ I am also open to connecting with like minded individuals who share an interest 
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -41,19 +39,17 @@ I am also open to connecting with like minded individuals who share an interest 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
 ###
@@ -75,11 +71,14 @@ I am also open to connecting with like minded individuals who share an interest 
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/muhammad-raihansyah-zahari?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+<div align="left">
+  <a href="https://www.linkedin.com/in/muhammad-raihansyah-zahari?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/rhannsyah__?igsh=MTdjYjR5MWJwaGh4OQ==" target="_blank">
+  <a href="https://discord.com/users/1376000905383772183" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/rhannsyah__?igsh=MTdjYjR5MWJwaGh4OQ%3D%3D" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
