@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A tech enthusiast passionate about Software Engineering, Web Developer & Cyber Security.</p>
+<p align="left">A tech enthusiast passionate about Software Engineering & Cyber Security.</p>
 
 ###
 
